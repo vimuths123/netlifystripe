@@ -1,0 +1,20 @@
+{
+  "name": "netlifystripe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vimuths123/netlifystripe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vimuths123/netlifystripe/issues"
+  },
+  "homepage": "https://github.com/vimuths123/netlifystripe#readme"
+}
